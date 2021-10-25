@@ -1,9 +1,12 @@
 
-# Learnings Representation from Reinforcement Learning on Pixel-Based Observations with Distractors
+# Learning Representation in Reinforcement Learning on Pixel-Based Observations with Distractors
 
 **Authors**: [Utkarsh A. Mishra](https://utkarshmishra04.github.io) and [Manan Tomar](https://manantomar.github.io)
 
 **Description**:
+
+
+![Baseline Architecture]('./assets/baseline.png')
 
 
 ## Usage:
@@ -16,7 +19,7 @@ If you find this useful you can cite this work as follows:
 ```
 @misc{representation-learning-pixels,
   author = {Mishra, Utkarsh A. and Tomar, Manan},
-  title = {Learnings Representation from Reinforcement Learning on Pixel-Based Observations with Distractors},
+  title = {Learning Representation in Reinforcement Learning on Pixel-Based Observations with Distractors},
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
