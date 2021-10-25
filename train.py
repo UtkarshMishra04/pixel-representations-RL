@@ -41,7 +41,6 @@ def parse_args():
     parser.add_argument('--replay_buffer_capacity', default=100000, type=int)
     parser.add_argument('--normalize_obs', default=False, action='store_true')
     # train
-    parser.add_argument('--agent', default='finsim_sac', type=str)
     parser.add_argument('--init_steps', default=1000, type=int)
     parser.add_argument('--num_train_steps', default=1000000, type=int)
     parser.add_argument('--batch_size', default=32, type=int)

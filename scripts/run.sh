@@ -4,7 +4,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
     --encoder_type pixel --work_dir ./tmp/test \
     --action_repeat 8 --num_eval_episodes 10 \
     --pre_transform_image_size 100 --image_size 84 --replay_buffer_capacity 100 \
-    --agent finsim_sac --frame_stack 3 --data_augs no_aug  \
+    --frame_stack 3 --data_augs no_aug  \
     --seed 23 --critic_lr 1e-3 --actor_lr 1e-3 --eval_freq 10000 \
     --batch_size 16 --num_train_steps 200000 --metric_loss \
     --init_steps 1000 \
