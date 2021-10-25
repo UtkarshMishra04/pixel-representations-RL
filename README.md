@@ -17,9 +17,9 @@ The approach in the repository uses a baseline architecture as shown in figure a
 - Case 3: Baseline with only Reward loss
 - Case 4: Baseline, Independent Reward and Transition
 - Case 5: Baseline + Value Aware loss 
-- Case 6: Baseline + Reconstruction loss
-- Case 7: Baseline + Contrastive loss
-- Case 8: Baseline + Non-Contrastive loss
+- Case 6: Baseline + Reconstruction loss (based on [DREAMER](https://github.com/google-research/dreamer))
+- Case 7: Baseline + Contrastive loss (based on [CURL](https://github.com/MishaLaskin/curl))
+- Case 8: Baseline + Non-Contrastive loss (similar to [SPR](https://github.com/mila-iqia/spr) which does this for Atari)
 
 All the above experiments were further performed on 4 different environment data:
 
