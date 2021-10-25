@@ -28,6 +28,8 @@ All the above experiments were further performed on 4 different environment data
 - Type 3: Pixel DM-Control + Natural Driving Distrators + Camera position and zoom offsets (Figure above - right-bottom)
 - Type 4: Augmented Pixel DM-Control + Natural Driving Distrators
 
+![Results](./assets/results.png)
+
 
 ## Usage:
 
