@@ -6,7 +6,7 @@
 **Description**:
 
 
-![Baseline Architecture]('./assets/baseline.png')
+![Baseline Architecture](./assets/baseline.png)
 
 
 ## Usage:
