@@ -5,7 +5,7 @@
 
 **Description**:
 
-This repository is a collection of widely used self-supervised auxiliary functions used for learning representations in reinforcement learning. Learning representations for pixel-based control has gained significant attention recently in reinforcement learning. A wide range of methods have been proposed to enable efficient learning. Such methods can be broadly classsified into few categories based on the auxiliary loss used, namely, with State metric (DBC, MiCO), Reconstruction (DREAMER, TIA), Contrastive (CURL) and Non-Contrastives (SPR) losses. 
+This repository is a collection of widely used self-supervised auxiliary functions used for learning representations in reinforcement learning. Learning representations for pixel-based control has gained significant attention recently in reinforcement learning. A wide range of methods have been proposed to enable efficient learning. Such methods can be broadly classsified into few categories based on the auxiliary loss used, namely, with State metric ([DBC](https://github.com/facebookresearch/deep_bisim4control)), Reconstruction ([DREAMER](https://github.com/google-research/dreamer), [TIA](https://github.com/kyonofx/tia)), Contrastive ([CURL](https://github.com/MishaLaskin/curl)) and Non-Contrastives ([SPR](https://github.com/mila-iqia/spr)) losses. 
 
 ![Baseline Architecture](./assets/baseline.png)
 
@@ -23,8 +23,8 @@ The approach in the repository uses a baseline architecture as shown in figure a
 
 All the above experiments were further performed on 4 different environment data:
 
-- Type 1: Simple Pixel DM-Control
-- Type 2: Pixel DM-Control with Natural Driving Distrators (Figure above - right-top)
+- Type 1: Simple Pixel [DM-Control](https://github.com/deepmind/dm_control)
+- Type 2: Pixel DM-Control with [Natural Driving Distrators](https://github.com/Showmax/kinetics-downloader) (Figure above - right-top)
 - Type 3: Pixel DM-Control + Natural Driving Distrators + Camera position and zoom offsets (Figure above - right-bottom)
 - Type 4: Augmented Pixel DM-Control + Natural Driving Distrators
 
@@ -32,6 +32,10 @@ All the above experiments were further performed on 4 different environment data
 ## Usage:
 
 
+
+### Running the natural video setting
+
+You can download the Kinetics 400 dataset and grab the driving_car label from the train dataset to replicate our setup. Some instructions for downloading the dataset can be found here: [https://github.com/Showmax/kinetics-downloader](https://github.com/Showmax/kinetics-downloader).
 
 
 ## Citation:
