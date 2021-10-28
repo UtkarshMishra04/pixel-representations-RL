@@ -5,7 +5,7 @@
 
 **Description**:
 
-This repository is a collection of widely used self-supervised auxiliary functions used for learning representations in reinforcement learning. Learning representations for pixel-based control has gained significant attention recently in reinforcement learning. A wide range of methods have been proposed to enable efficient learning. Such methods can be broadly classsified into few categories based on the auxiliary loss used, namely, with State metric ([DBC](https://github.com/facebookresearch/deep_bisim4control)), Reconstruction ([DREAMER](https://github.com/google-research/dreamer), [TIA](https://github.com/kyonofx/tia)), Contrastive ([CURL](https://github.com/MishaLaskin/curl)) and Non-Contrastives ([SPR](https://github.com/mila-iqia/spr)) losses. 
+This repository is a collection of widely used self-supervised auxiliary losses used for learning representations in reinforcement learning. Learning representations for pixel-based control has gained significant attention recently in reinforcement learning. A wide range of methods have been proposed to enable efficient learning. Such methods can be broadly classsified into few categories based on the auxiliary loss used, namely, with State metric ([DBC](https://github.com/facebookresearch/deep_bisim4control)), Reconstruction ([DREAMER](https://github.com/google-research/dreamer), [TIA](https://github.com/kyonofx/tia)), Contrastive ([CURL](https://github.com/MishaLaskin/curl)) and Non-Contrastives ([SPR](https://github.com/mila-iqia/spr)) losses. 
 
 ![Baseline Architecture](./assets/baseline.png)
 
