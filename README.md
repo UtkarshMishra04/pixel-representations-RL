@@ -95,7 +95,7 @@ If you find this useful you can cite this work as follows:
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  url = {https://github.com/UtkarshMishra04/representation_learning_pixels}
+  url = {https://github.com/UtkarshMishra04/pixel-representations-RL}
 }
 ```
 
