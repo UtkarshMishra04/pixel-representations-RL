@@ -1,5 +1,5 @@
 
-# Self-supervised Representations in Reinforcement Learning on Pixel-Based Observations with Distractors
+# Learning Representations in Reinforcement Learning on Pixel-Based Observations with Distractors
 
 **Authors**: [Utkarsh A. Mishra](https://utkarshmishra04.github.io) and [Manan Tomar](https://manantomar.github.io)
 
