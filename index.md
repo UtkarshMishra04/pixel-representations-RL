@@ -96,6 +96,15 @@ If you find this useful you can cite this work as follows:
 }
 ```
 
+```
+@article{tomar2021learning,
+  title={Learning Representations for Pixel-based Control: What Matters and Why?},
+  author={Tomar, Manan and Mishra, Utkarsh A and Zhang, Amy and Taylor, Matthew E},
+  journal={arXiv preprint arXiv:2111.07775},
+  year={2021}
+}
+```
+
 ## Acknowledgement:
 
 We thank the authors of [RAD](https://github.com/MishaLaskin/rad), [CURL](https://github.com/MishaLaskin/curl) and [SPR](https://github.com/mila-iqia/spr) for their well-structured open source code.
