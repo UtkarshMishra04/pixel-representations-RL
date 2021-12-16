@@ -88,7 +88,7 @@ If you find this useful you can cite this work as follows:
 ```
 @misc{representation-learning-pixels,
   author = {Mishra, Utkarsh A. and Tomar, Manan},
-  title = {Learning Representation in Reinforcement Learning on Pixel-Based Observations with Distractors},
+  title = {Learning Representations in Reinforcement Learning on Pixel-Based Observations with Distractors},
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
